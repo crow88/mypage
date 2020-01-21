@@ -3190,7 +3190,7 @@ body.lightbox:after {
     position: absolute;
     top: 0;
     left: 0;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fbg%2Fbg_status_mypage_01.png%3F1487720324);
+    background: url(../../../12008305/image_sp/ui/mypage_new/bg/bg_status_mypage_01.png);
     background-size: 7px 7px;
     z-index: 200
 }
@@ -23452,7 +23452,7 @@ body#mypage .btn_change_atk_def,
 body#gacha .btn_change_atk_def,
 body#quests .btn_change_atk_def {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2457px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2457px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23464,7 +23464,7 @@ body#mypage .btn_change_atk_def._hover,
 body#gacha .btn_change_atk_def._hover,
 body#quests .btn_change_atk_def._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2184px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2184px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23476,7 +23476,7 @@ body#mypage .btn_change_def_atk,
 body#gacha .btn_change_def_atk,
 body#quests .btn_change_def_atk {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2262px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2262px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23488,7 +23488,7 @@ body#mypage .btn_change_def_atk._hover,
 body#gacha .btn_change_def_atk._hover,
 body#quests .btn_change_def_atk._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2067px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2067px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23500,7 +23500,7 @@ body#mypage .btn_change_normal,
 body#gacha .btn_change_normal,
 body#quests .btn_change_normal {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2574px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2574px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23512,7 +23512,7 @@ body#mypage .btn_change_normal._hover,
 body#gacha .btn_change_normal._hover,
 body#quests .btn_change_normal._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2418px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2418px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23524,7 +23524,7 @@ body#mypage .btn_change_pattern_1,
 body#gacha .btn_change_pattern_1,
 body#quests .btn_change_pattern_1 {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2496px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2496px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23536,7 +23536,7 @@ body#mypage .btn_change_pattern_1._hover,
 body#gacha .btn_change_pattern_1._hover,
 body#quests .btn_change_pattern_1._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2730px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2730px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23548,7 +23548,7 @@ body#mypage .btn_change_pattern_2,
 body#gacha .btn_change_pattern_2,
 body#quests .btn_change_pattern_2 {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2769px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2769px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23560,7 +23560,7 @@ body#mypage .btn_change_pattern_2._hover,
 body#gacha .btn_change_pattern_2._hover,
 body#quests .btn_change_pattern_2._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2808px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2808px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23572,7 +23572,7 @@ body#mypage .btn_change_pattern_3,
 body#gacha .btn_change_pattern_3,
 body#quests .btn_change_pattern_3 {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2379px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2379px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23584,7 +23584,7 @@ body#mypage .btn_change_pattern_3._hover,
 body#gacha .btn_change_pattern_3._hover,
 body#quests .btn_change_pattern_3._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2340px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2340px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23596,7 +23596,7 @@ body#mypage .btn_change_petit,
 body#gacha .btn_change_petit,
 body#quests .btn_change_petit {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2106px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2106px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23608,7 +23608,7 @@ body#mypage .btn_change_petit._hover,
 body#gacha .btn_change_petit._hover,
 body#quests .btn_change_petit._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1950px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1950px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -23620,7 +23620,7 @@ body#mypage .btn_cheer_history_status_mypage,
 body#gacha .btn_cheer_history_status_mypage,
 body#quests .btn_cheer_history_status_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1722px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1722px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 88px;
@@ -23632,7 +23632,7 @@ body#mypage .btn_cheer_history_status_mypage._hover,
 body#gacha .btn_cheer_history_status_mypage._hover,
 body#quests .btn_cheer_history_status_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1691px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1691px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 88px;
@@ -23644,7 +23644,7 @@ body#mypage .btn_cheer_status_mypage,
 body#gacha .btn_cheer_status_mypage,
 body#quests .btn_cheer_status_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1753px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1753px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23656,7 +23656,7 @@ body#mypage .btn_cheer_status_mypage._hover,
 body#gacha .btn_cheer_status_mypage._hover,
 body#quests .btn_cheer_status_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2145px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2145px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23668,7 +23668,7 @@ body#mypage .btn_copy_status_mypage,
 body#gacha .btn_copy_status_mypage,
 body#quests .btn_copy_status_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1911px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1911px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23680,7 +23680,7 @@ body#mypage .btn_copy_status_mypage._hover,
 body#gacha .btn_copy_status_mypage._hover,
 body#quests .btn_copy_status_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2691px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2691px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23692,7 +23692,7 @@ body#mypage .btn_delete_status_mypage,
 body#gacha .btn_delete_status_mypage,
 body#quests .btn_delete_status_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2028px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2028px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23704,7 +23704,7 @@ body#mypage .btn_delete_status_mypage._hover,
 body#gacha .btn_delete_status_mypage._hover,
 body#quests .btn_delete_status_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2613px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2613px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23716,7 +23716,7 @@ body#mypage .btn_detail_status_mypage,
 body#gacha .btn_detail_status_mypage,
 body#quests .btn_detail_status_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1792px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1792px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23728,7 +23728,7 @@ body#mypage .btn_detail_status_mypage._hover,
 body#gacha .btn_detail_status_mypage._hover,
 body#quests .btn_detail_status_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2535px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2535px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23740,7 +23740,7 @@ body#mypage .btn_inquiry_mypage,
 body#gacha .btn_inquiry_mypage,
 body#quests .btn_inquiry_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1229px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1229px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 136px;
@@ -23752,7 +23752,7 @@ body#mypage .btn_inquiry_mypage._hover,
 body#gacha .btn_inquiry_mypage._hover,
 body#quests .btn_inquiry_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1186px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1186px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 136px;
@@ -23764,7 +23764,7 @@ body#mypage .btn_lv_on_status_mypage,
 body#gacha .btn_lv_on_status_mypage,
 body#quests .btn_lv_on_status_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1409px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1409px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 47px;
@@ -23776,7 +23776,7 @@ body#mypage .btn_lv_on_status_mypage._hover,
 body#gacha .btn_lv_on_status_mypage._hover,
 body#quests .btn_lv_on_status_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1460px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1460px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 47px;
@@ -23788,7 +23788,7 @@ body#mypage .btn_lv_status_mypage,
 body#gacha .btn_lv_status_mypage,
 body#quests .btn_lv_status_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1511px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1511px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 47px;
@@ -23800,7 +23800,7 @@ body#mypage .btn_lv_status_mypage._hover,
 body#gacha .btn_lv_status_mypage._hover,
 body#quests .btn_lv_status_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1562px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1562px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 47px;
@@ -23812,7 +23812,7 @@ body#mypage .btn_main_announce,
 body#gacha .btn_main_announce,
 body#quests .btn_main_announce {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -532px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -532px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 45px;
@@ -23824,7 +23824,7 @@ body#mypage .btn_main_announce._hover,
 body#gacha .btn_main_announce._hover,
 body#quests .btn_main_announce._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -595px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -595px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 45px;
@@ -23836,7 +23836,7 @@ body#mypage .btn_main_announce_nothing,
 body#gacha .btn_main_announce_nothing,
 body#quests .btn_main_announce_nothing {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -67px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -67px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 45px;
@@ -23848,7 +23848,7 @@ body#mypage .btn_main_battle,
 body#gacha .btn_main_battle,
 body#quests .btn_main_battle {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -871px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -871px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23860,7 +23860,7 @@ body#mypage .btn_main_battle._hover,
 body#gacha .btn_main_battle._hover,
 body#quests .btn_main_battle._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -398px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -398px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23872,7 +23872,7 @@ body#mypage .btn_main_deck,
 body#gacha .btn_main_deck,
 body#quests .btn_main_deck {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -737px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -737px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 59px;
@@ -23884,7 +23884,7 @@ body#mypage .btn_main_deck._hover,
 body#gacha .btn_main_deck._hover,
 body#quests .btn_main_deck._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -264px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -264px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 59px;
@@ -23896,7 +23896,7 @@ body#mypage .btn_main_lesson,
 body#gacha .btn_main_lesson,
 body#quests .btn_main_lesson {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -130px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -130px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 59px;
@@ -23908,7 +23908,7 @@ body#mypage .btn_main_lesson._hover,
 body#gacha .btn_main_lesson._hover,
 body#quests .btn_main_lesson._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 0;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 0;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 59px;
@@ -23920,7 +23920,7 @@ body#mypage .btn_main_present,
 body#gacha .btn_main_present,
 body#quests .btn_main_present {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -674px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -674px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 45px;
@@ -23932,7 +23932,7 @@ body#mypage .btn_main_present._hover,
 body#gacha .btn_main_present._hover,
 body#quests .btn_main_present._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -938px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -938px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 45px;
@@ -23944,7 +23944,7 @@ body#mypage .btn_main_work,
 body#gacha .btn_main_work,
 body#quests .btn_main_work {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -804px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -804px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23956,7 +23956,7 @@ body#mypage .btn_main_work._hover,
 body#gacha .btn_main_work._hover,
 body#quests .btn_main_work._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -465px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -465px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23968,7 +23968,7 @@ body#mypage .btn_main_work_01,
 body#gacha .btn_main_work_01,
 body#quests .btn_main_work_01 {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1001px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1001px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23980,7 +23980,7 @@ body#mypage .btn_main_work_01._hover,
 body#gacha .btn_main_work_01._hover,
 body#quests .btn_main_work_01._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -197px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -197px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -23992,7 +23992,7 @@ body#mypage .btn_main_work_02,
 body#gacha .btn_main_work_02,
 body#quests .btn_main_work_02 {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1068px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1068px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -24004,7 +24004,7 @@ body#mypage .btn_main_work_02._hover,
 body#gacha .btn_main_work_02._hover,
 body#quests .btn_main_work_02._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -331px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -331px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -24016,7 +24016,7 @@ body#mypage .btn_popup_close,
 body#gacha .btn_popup_close,
 body#quests .btn_popup_close {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2920px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2920px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 34px;
@@ -24028,7 +24028,7 @@ body#mypage .btn_popup_close._hover,
 body#gacha .btn_popup_close._hover,
 body#quests .btn_popup_close._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2885px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2885px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 34px;
@@ -24040,7 +24040,7 @@ body#mypage .btn_popup_close_02,
 body#gacha .btn_popup_close_02,
 body#quests .btn_popup_close_02 {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2955px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2955px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 138px;
@@ -24052,7 +24052,7 @@ body#mypage .btn_popup_close_02._hover,
 body#gacha .btn_popup_close_02._hover,
 body#quests .btn_popup_close_02._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2984px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2984px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 138px;
@@ -24064,7 +24064,7 @@ body#mypage .btn_production_status_mypage,
 body#gacha .btn_production_status_mypage,
 body#quests .btn_production_status_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1652px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1652px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -24076,7 +24076,7 @@ body#mypage .btn_production_status_mypage._hover,
 body#gacha .btn_production_status_mypage._hover,
 body#quests .btn_production_status_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1613px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1613px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 64px;
@@ -24088,7 +24088,7 @@ body#mypage .btn_reload,
 body#gacha .btn_reload,
 body#quests .btn_reload {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2301px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2301px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -24100,7 +24100,7 @@ body#mypage .btn_reload._hover,
 body#gacha .btn_reload._hover,
 body#quests .btn_reload._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2223px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2223px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 36px;
@@ -24112,7 +24112,7 @@ body#mypage .btn_setting_mypage,
 body#gacha .btn_setting_mypage,
 body#quests .btn_setting_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1323px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1323px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 136px;
@@ -24124,7 +24124,7 @@ body#mypage .btn_setting_mypage._hover,
 body#gacha .btn_setting_mypage._hover,
 body#quests .btn_setting_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1366px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1366px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 136px;
@@ -24136,7 +24136,7 @@ body#mypage .btn_unitname_status_mypage,
 body#gacha .btn_unitname_status_mypage,
 body#quests .btn_unitname_status_mypage {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1989px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1989px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 195px;
@@ -24148,7 +24148,7 @@ body#mypage .btn_unitname_status_mypage._hover,
 body#gacha .btn_unitname_status_mypage._hover,
 body#quests .btn_unitname_status_mypage._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2652px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2652px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 195px;
@@ -24160,7 +24160,7 @@ body#mypage .butten_maisutajio,
 body#gacha .butten_maisutajio,
 body#quests .butten_maisutajio {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1135px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1135px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 225px;
@@ -24172,7 +24172,7 @@ body#mypage .butten_maisutajio._hover,
 body#gacha .butten_maisutajio._hover,
 body#quests .butten_maisutajio._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1272px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1272px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 225px;
@@ -24184,7 +24184,7 @@ body#mypage .button_petit_mypage_nice,
 body#gacha .button_petit_mypage_nice,
 body#quests .button_petit_mypage_nice {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1831px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1831px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 37px;
@@ -24196,7 +24196,7 @@ body#mypage .button_petit_mypage_nice._hover,
 body#gacha .button_petit_mypage_nice._hover,
 body#quests .button_petit_mypage_nice._hover {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -1871px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -1871px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 37px;
@@ -24208,7 +24208,7 @@ body#mypage .lesson_complete,
 body#gacha .lesson_complete,
 body#quests .lesson_complete {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2871px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2871px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 32px;
@@ -24220,7 +24220,7 @@ body#mypage .new_icon_img,
 body#gacha .new_icon_img,
 body#quests .new_icon_img {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -2847px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -2847px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 23px;
@@ -24232,7 +24232,7 @@ body#mypage .reload_announce,
 body#gacha .reload_announce,
 body#quests .reload_announce {
     display: block;
-    background: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fsprite%2Fbtn-s7ac057084f.png%3F1572241607) no-repeat 0 -658px;
+    background: url(../../../12008305/image_sp/ui/mypage_new/sprite/btn-s7ac057084f.png) no-repeat 0 -658px;
     -webkit-background-size: 225px 3012px;
     background-size: 225px 3012px;
     width: 104px;
@@ -25212,7 +25212,7 @@ body#quests div.area_main_petit .petit_idol_list .lesson_comp_lvup {
 }
 
 body#mypage.index {
-    background-image: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fbg%2Fbg_status_mypage_01.png%3F1487720324);
+    background-image: url(../../../12008305/image_sp/ui/mypage_new/bg/bg_status_mypage_01.png);
     background-size: 7px 7px
 }
 
@@ -26727,7 +26727,7 @@ body#mypage .area_main_petit #petit_idol_03 {
 }
 
 body#top {
-    background-image: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fbg%2Fbg_status_mypage_01.png%3F1487720324);
+    background-image: url(../../../12008305/image_sp/ui/mypage_new/bg/bg_status_mypage_01.png);
     background-size: 7px 7px
 }
 
@@ -28914,7 +28914,7 @@ body#top #slider.top-retina-sprite {
 }
 
 body#gacha {
-    background-image: url(http://sp.pf-img-a.mbga.jp/12008305/?url=http%3A%2F%2F125.6.169.35%2Fidolmaster%2Fimage_sp%2Fui%2Fmypage_new%2Fbg%2Fbg_status_mypage_01.png%3F1487720324);
+    background-image: url(../../../12008305/image_sp/ui/mypage_new/bg/bg_status_mypage_01.png);
     background-size: 7px 7px
 }
 
