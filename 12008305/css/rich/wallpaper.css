@@ -648,7 +648,7 @@ body#campaign_wallpaper {
 }
 
 .list_archive li:not(:nth-of-type(4n)) {
-    margin-right: 5px
+    margin-right: 4px
 }
 
 .list_archive li .btn_archive {
