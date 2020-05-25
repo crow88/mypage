@@ -3470,9 +3470,9 @@ body#achieve_sns {
     left: 0;
     border-width: 20px;
     border-style: solid;
-    -webkit-border-image: url(../../../12008305/image_sp/campaign/vote/9th/publish_all%2Fresult_frame.png) 30 stretch;
-    -webkit-border-image: url(../../../12008305/image_sp/campaign/vote/9th/publish_all%2Fresult_frame.png) 30 stretch;
-    border-image: url(../../../12008305/image_sp/campaign/vote/9th/publish_all%2Fresult_frame.png) 30 fill stretch;
+    -webkit-border-image: url(../../../12008305/image_sp/campaign/vote/9th/publish_all/result_frame.png) 30 stretch;
+    -webkit-border-image: url(../../../12008305/image_sp/campaign/vote/9th/publish_all/result_frame.png) 30 stretch;
+    border-image: url(../../../12008305/image_sp/campaign/vote/9th/publish_all/result_frame.png) 30 fill stretch;
     content: ''
 }
 
